@@ -1,0 +1,84 @@
+# textdomain: livingcaves
+
+### cavenodes.lua ###
+Mossy Cave Rock=Мшистая пещерная скала
+Lichen infested Cave Rock=Пещерная скала, поражённая лишайником
+Mushroom Infested Rock=Камень, заражённый грибами
+Dripstone Cave Stone=Сталактитовая пещерная порода
+Bacteria Infested Rock=Камень, заражённый бактериями
+Dirt With Roots=Земля с корнями
+Cave Ice=Пещерный лёд
+Flesh Eating Bacteria Trapstone=Камень-ловушка с плотоядными бактериями
+Flesh Eating Bacteria Trap=Ловушка с плотоядными бактериями
+Bacteria Poolstone=Бактериальный бассейн-камень
+Bacteria Nest Foot=Основание бактериального гнезда
+Bacteria Nest Core=Ядро бактериального гнезда
+Spider Web=Паутина
+
+### crafting.lua ###
+Root Woven=Плетёный корень
+Root Stair=Лестница из корней
+Root Slab=Плита из корней
+Root Dirt Stair=Лестница из земли с корнями
+Root Dirt Slab=Плита из земли с корнями
+Root Fence Gate=Калитка из корней
+Root Fence=Забор из корней
+Root Fence Rail=Перила забора из корней
+Root Door=Дверь из корней
+Root Trapdoor=Люк из корней
+Root Mushroom Lamp=Грибная лампа из корней
+Ice Brick Wall=Стена из ледяных кирпичей
+Ice Brick Stair=Лестница из ледяных кирпичей
+Ice Brick Slab=Плита из ледяных кирпичей
+Ice Brick=Ледяной кирпич
+Ice Fence=Ледяной забор
+Ice Fence Rail=Ледяные перила
+Ice Door=Ледяная дверь
+Ice Trapdoor=Ледяной люк
+Dripstone Brick Wall=Стена из сталактитовых кирпичей
+Dripstone Brick Stair=Лестница из сталактитовых кирпичей
+Dripstone Brick Slab=Плита из сталактитовых кирпичей
+Dripstone Bricks=Сталактитовые кирпичи
+Dripstone Door=Сталактитовая дверь
+Dripstone Trapdoor=Сталактитовый люк
+Mossy Brick Wall=Мшистая кирпичная стена
+Mossy Stone Brick Stair=Мшистая каменная лестница
+Mossy Stone Brick Slab=Мшистая каменная плита
+Mushcave Mossy Bricks=Мшистые кирпичи
+Healing Soup=Целебный суп
+
+### decor.lua ###
+Cave Moss=Пещерный мох
+Cave Lichen=Пещерный лишайник
+Hanging Moss=Висячий мох
+Glowing Mushroom Stem=Светящаяся грибная ножка
+Glowing Mushroom Hat=Светящаяся шляпка гриба
+Large Stalagmite=Большой сталагмит
+Large Stalagmite Spike=Большой сталагмитный шип
+Stalagmite=Сталагмит
+Stalagmite Spike=Сталагмитный шип
+Stalagtite=Сталактит
+Stalagtite Spike=Сталактитный шип
+Large Stalagtite=Большой сталактит
+Large Stalagtite Spike=Большой сталактитный шип
+Cave Water Source=Источник пещерной воды
+Flowing Cave Water=Текущая пещерная вода
+Empty Cave Bucket=Пустое пещерное ведро
+Cave Water Bucket=Ведро с пещерной водой
+Water Bucket=Ведро с водой
+River Water Bucket=Ведро с речной водой
+Hanging Mold=Висячая плесень
+Bacteria with Mold=Бактерии с плесенью
+Bacteria Colony=Колония бактерий
+Smelly Mushroom=Вонючий гриб
+Hanging Roots=Висячие корни
+Small Cave Roots=Мелкие пещерные корни
+Big Cave Roots=Крупные пещерные корни
+Large Ice Stalagmite=Большой ледяной сталагмит
+Large Ice Stalagmite Spike=Большой ледяной сталагмитный шип
+Ice Stalagmite=Ледяной сталагмит
+Ice Stalagmite Spike=Ледяной сталагмитный шип
+Ice Stalagtite=Ледяной сталактит
+Stalagtite Ice Spike=Ледяной сталактитный шип
+Large Ice Stalagtite=Большой ледяной сталактит
+Large Ice Stalagtite Spike=Большой ледяной сталактитный шип
